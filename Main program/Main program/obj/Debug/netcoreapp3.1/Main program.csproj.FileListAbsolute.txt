@@ -1,0 +1,16 @@
+C:\Users\N.D\Desktop\Test4\Main program\Main program\bin\Debug\netcoreapp3.1\Main program.exe
+C:\Users\N.D\Desktop\Test4\Main program\Main program\bin\Debug\netcoreapp3.1\Main program.deps.json
+C:\Users\N.D\Desktop\Test4\Main program\Main program\bin\Debug\netcoreapp3.1\Main program.runtimeconfig.json
+C:\Users\N.D\Desktop\Test4\Main program\Main program\bin\Debug\netcoreapp3.1\Main program.runtimeconfig.dev.json
+C:\Users\N.D\Desktop\Test4\Main program\Main program\bin\Debug\netcoreapp3.1\Main program.dll
+C:\Users\N.D\Desktop\Test4\Main program\Main program\bin\Debug\netcoreapp3.1\Main program.pdb
+C:\Users\N.D\Desktop\Test4\Main program\Main program\bin\Debug\netcoreapp3.1\Area and Volume of Rectangular Prism.dll
+C:\Users\N.D\Desktop\Test4\Main program\Main program\bin\Debug\netcoreapp3.1\Area and Volume of Rectangular Prism.pdb
+C:\Users\N.D\Desktop\Test4\Main program\Main program\obj\Debug\netcoreapp3.1\Main program.csprojAssemblyReference.cache
+C:\Users\N.D\Desktop\Test4\Main program\Main program\obj\Debug\netcoreapp3.1\Main program.AssemblyInfoInputs.cache
+C:\Users\N.D\Desktop\Test4\Main program\Main program\obj\Debug\netcoreapp3.1\Main program.AssemblyInfo.cs
+C:\Users\N.D\Desktop\Test4\Main program\Main program\obj\Debug\netcoreapp3.1\Main program.csproj.CoreCompileInputs.cache
+C:\Users\N.D\Desktop\Test4\Main program\Main program\obj\Debug\netcoreapp3.1\Main program.csproj.CopyComplete
+C:\Users\N.D\Desktop\Test4\Main program\Main program\obj\Debug\netcoreapp3.1\Main program.dll
+C:\Users\N.D\Desktop\Test4\Main program\Main program\obj\Debug\netcoreapp3.1\Main program.pdb
+C:\Users\N.D\Desktop\Test4\Main program\Main program\obj\Debug\netcoreapp3.1\Main program.genruntimeconfig.cache

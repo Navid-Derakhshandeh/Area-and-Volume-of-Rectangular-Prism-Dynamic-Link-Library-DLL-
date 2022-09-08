@@ -1,0 +1,6 @@
+C:\Users\N.D\Desktop\Test4\Area and Volume of Rectangular Prism\Area and Volume of Rectangular Prism\bin\Debug\Area and Volume of Rectangular Prism.dll
+C:\Users\N.D\Desktop\Test4\Area and Volume of Rectangular Prism\Area and Volume of Rectangular Prism\bin\Debug\Area and Volume of Rectangular Prism.pdb
+C:\Users\N.D\Desktop\Test4\Area and Volume of Rectangular Prism\Area and Volume of Rectangular Prism\obj\Debug\Surface Area and Volume of Rectangular Prism.csprojAssemblyReference.cache
+C:\Users\N.D\Desktop\Test4\Area and Volume of Rectangular Prism\Area and Volume of Rectangular Prism\obj\Debug\Surface Area and Volume of Rectangular Prism.csproj.CoreCompileInputs.cache
+C:\Users\N.D\Desktop\Test4\Area and Volume of Rectangular Prism\Area and Volume of Rectangular Prism\obj\Debug\Area and Volume of Rectangular Prism.dll
+C:\Users\N.D\Desktop\Test4\Area and Volume of Rectangular Prism\Area and Volume of Rectangular Prism\obj\Debug\Area and Volume of Rectangular Prism.pdb

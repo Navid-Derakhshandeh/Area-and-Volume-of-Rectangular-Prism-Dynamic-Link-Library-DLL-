@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Main_program</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Area and Volume of Rectangular Prism">
+      <HintPath>..\..\Area and Volume of Rectangular Prism\Area and Volume of Rectangular Prism\bin\Debug\Area and Volume of Rectangular Prism.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

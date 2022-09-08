@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Main program/1.0.0": {
+        "dependencies": {
+          "Area and Volume of Rectangular Prism": "1.0.0.0"
+        },
+        "runtime": {
+          "Main program.dll": {}
+        }
+      },
+      "Area and Volume of Rectangular Prism/1.0.0.0": {
+        "runtime": {
+          "Area and Volume of Rectangular Prism.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Main program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Area and Volume of Rectangular Prism/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
